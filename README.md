@@ -27,13 +27,18 @@ If you use the code, data, or any material from this repository, please cite:
 ### Recommended citation for the main article
 
 ```bibtex
-@article{prataviera2023gollmax,
-  author  = {Prataviera, F. and Hashimoto, E. M. and Ortega, E. M. M. and Cordeiro, G. M. and Cancho, V. G. and Vila, R.},
-  title   = {A new flexible regression model with application to recovery probability Covid-19 patients},
-  journal = {Journal of Applied Statistics},
-  year    = {2023},
-  doi     = {10.1080/02664763.2022.2163229}
+@article{Prataviera03042024,
+author = {F. Prataviera and E. M. Hashimoto and E. M. M. Ortega and G. M. Cordeiro and V. G. Cancho and R. Vila},
+title = {A new flexible regression model with application to recovery probability Covid-19 patients},
+journal = {Journal of Applied Statistics},
+volume = {51},
+number = {5},
+pages = {826--844},
+year = {2024},
+publisher = {Taylor \& Francis},
+doi     = {10.1080/02664763.2022.2163229}
 }
+
 @article{dong2020dashboard,
   author  = {Dong, E. and Du, H. and Gardner, L.},
   title   = {An interactive web-based dashboard to track COVID-19 in real time},
